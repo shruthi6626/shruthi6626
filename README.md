@@ -1,4 +1,4 @@
-## Hi! I am Shruthi, a Computer Science(Cybersecurity) major
+## Hi! I am Shruthi, a Computer Science(Cybersecurity) major and a Econ Minor
 
 <!--
 **shruthi6626/shruthi6626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
