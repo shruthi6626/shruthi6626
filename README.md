@@ -1,5 +1,7 @@
 ## Hi! I am Shruthi, a Computer Science(Cybersecurity) major and an Econ Minor
-One project that I created was a Malicious Website Detection
+One project that I created was a Malicious Website Detection System
+• Built a Python model analyzing website datasets and achieved 85% classification accuracy.
+• Applied statistical analysis to improve detection performance and reduce false positives.
 
 
 <!--
